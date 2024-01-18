@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training. Trigger
+Repo for the `GitHub Actions Fundamentals` training. Skip ci
 
 ## 👉 Objectives
 
